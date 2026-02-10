@@ -13,3 +13,4 @@ total * 5
 gastos <- c(celular, transporte, comestibles, gimnasio, alquiler, otros)
 barplot(gastos)
 sort(gastos)
+
